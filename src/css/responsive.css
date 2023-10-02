@@ -79,11 +79,11 @@
         top: -20%;
     }
 
-    .buttons .buttom img {
+    .buttons .button img {
         max-width: 45px;
     }
 
-    .buttons .buttom.selected {
+    .buttons .button.selected {
         margin: 2px;
     }
 }

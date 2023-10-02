@@ -81,18 +81,18 @@ main .character.selected .image {
 
 }
 
-.buttons .buttom {
+.buttons .button {
     border: none;
     background: #000000;
     cursor: pointer; /*click mouse*/
     border-radius: 100%;
 }
 
-.buttons .buttom img {
+.buttons .button img {
     border-radius: 50%;
 }
 
-.buttons .buttom.selected {
+.buttons .button.selected {
     transform: scale(1.2); /*increase element*/
     box-shadow: 0 0 10px #D9D0D9;
     border-radius: 50%;
